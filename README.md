@@ -7,8 +7,8 @@ For 3 balls run -- three_balls.py
 
 Requirements:
 
-deque
-numpy
-argparse
-imutils
-openCV
+deque,
+numpy,
+argparse,
+imutils,
+openCV.
